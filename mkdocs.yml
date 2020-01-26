@@ -4,7 +4,13 @@ site_name: MkLorum
 nav:
 - Home: index.md
 - About: about.md
-- Chapter1:
-    - readme: chapter1/readme.md
-    - section1: chapter1/section1.md
+- Basic Ideas:
+
+- Themes:
+
+- Tutorial:
+
+- Plugins:
+
+
 theme: readthedocs
