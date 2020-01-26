@@ -1,5 +1,5 @@
 
-# WOX WIKI
+# WOX WIKI REPO
 
 This is the doc repo for [jjw24/wox](https://github.com/jjw24/Wox), an awesome fork for original [Wox](https://github.com/Wox-launcher/Wox).
 
@@ -9,6 +9,6 @@ This is the doc repo for [jjw24/wox](https://github.com/jjw24/Wox), an awesome f
 
 ### References
 
-- Old Wox repo: 
-- Old Wox Wiki:
-- Old Wox website:
+- Old Wox repo: https://github.com/Wox-launcher/Wox
+- Old Wox Wiki: http://doc.wox.one/en/ and https://github.com/Wox-launcher/Wox/wiki
+- Old Wox website: http://www.wox.one/ and http://doc.wox.one/en/

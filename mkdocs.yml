@@ -2,8 +2,7 @@ site_name: Wox Wiki
 
 nav:
 - Home: main.md
-- About: about.md
-- Basic Ideas:
+- Introductions:
   - basic/Coding-Style.md
 
 - Tutorial:
