@@ -5,4 +5,10 @@ This is the doc repo for [jjw24/wox](https://github.com/jjw24/Wox), an awesome f
 
 - Wox Code repo: https://github.com/jjw24/Wox
 - Doc repo: https://github.com/HsunGong/Wox.Wiki
-- ReadtheDocs website: 
+- ReadtheDocs website: https://woxwiki.readthedocs.io/en/latest/
+
+### References
+
+- Old Wox repo: 
+- Old Wox Wiki:
+- Old Wox website:
