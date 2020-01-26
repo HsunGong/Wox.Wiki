@@ -2,23 +2,8 @@ site_name: Wox Wiki
 
 nav:
 - Home: main.md
-- Introductions:
-  - basic/Coding-Style.md
 
 - Tutorial:
-  - Install Wox: tutorial/install.md
-  - Usage: tutorial/usage.md
-  - Plugins: tutorial/plugins.md
-  - Settings: tutorial/settings.md
-
-- Themes:
-  - About Themes: theme/main.md
-  - Install A Theme: theme/install.md
-  - Create Your Own Theme: theme/create.md
-
-- Plugins:
-  - Main: plugin/main.md
-  - Web Search: plugin/web-search.md
-
+  - Install Wox: basic/install.md
 
 theme: readthedocs
