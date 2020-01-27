@@ -7,13 +7,23 @@ https://facelessuser.github.io/pymdown-extensions/
 ## Usage
 
 `!!!`:
+
 !!! note Note is here.
+    note
+
 !!! summary Summary is here.
+
 !!! warning Warning is here.
 
+!!! danger "Reminder" Please read the Usage Notes for information on extension compatibility and general notes to be aware of when using these extensions.
+
 `???`:
-??? note `??? note` is here.
-    Hide content
+
+!!!+ note "Open styled details"
+
+    ??? danger "Nested details!"
+        And more content again.
+
 
 ## Used extensions
 

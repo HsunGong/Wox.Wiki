@@ -3,7 +3,7 @@
 
 ### General
 
-![General](../imgs/settings/general.png)
+![General](imgs/settings/general.png)
 
 - `Start Wox on system startup`: Tick it if you want.
 - `Hide Wox on startup`: If tick, after start Wox program, the query box will hide at first. If you want to open `query box`, press `Alt+Space`

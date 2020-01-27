@@ -2,9 +2,10 @@ site_name: Wox Wiki
 docs_dir: 'docs'
 markdown_extensions: []
 repo_url: 'https://github.com/HsunGong/Wox.Wiki'
-site_favicon: 'imgs/app.jpg'
 
-theme: material
+theme: 
+  name: material
+  favicon: 'imgs/app.jpg'
 
 markdown_extensions:
   - footnotes

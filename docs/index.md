@@ -64,15 +64,15 @@ Thank [Bao Qian](#baoqian) for his generous work. You can find more in [History 
 
 ## <a id="catalogue">Catalogue</a>
 
-- [Install Wox](basic/install.md)
-- [**Gettings Started**](basic/usage.md): contains all basic usage of `Wox`, **this is what you should read as a beginner**.
-  - [Start](basic/usage.md): a start guide
-  - [Built-In Plugins Usage](basic/plugins.md): contains all built-in plugins usage and settings.
-  - [Theme Usage](basic/themes.md): contains all theme-related usage and settings.
-  - [Settings](basic/settings.md): contains all settings except `plugins` and `theme` of the main page.
+- [Install Wox](install.md)
+- [**Gettings Started**](usage.md): contains all basic usage of `Wox`, **this is what you should read as a beginner**.
+  - [Start](usage.md): a start guide
+  - [Built-In Plugins Usage](plugins.md): contains all built-in plugins usage and settings.
+  - [Theme Usage](themes.md): contains all theme-related usage and settings.
+  - [Settings](settings.md): contains all settings except `plugins` and `theme` of the main page.
 - [Advanced Usage with plugins](plugins/main.md): more about plugins
-- [Keep up to date](basic/update.md): The update method
-- [Developer](basic/develop.md): redirect developers to what they want to modify.
+- [Keep up to date](update.md): The update method
+- [Developer](develop.md): redirect developers to what they want to modify.
 
 <!-- Logic: Tutorial give all basic usage, and store at `basic` folder. Details (plugin, theme, refer) can be found in different folder. -->
 
