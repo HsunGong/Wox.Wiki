@@ -5,5 +5,11 @@ nav:
 
 - Tutorial:
   - Install Wox: basic/install.md
+  - Basic Usage: basic/usage.md
+  - Up to date: basic/update.md
+  - Develop: basic/develop.md
 
+- Reference:
+  - mkdocs: refer/mkdocs.md
+  
 theme: readthedocs
