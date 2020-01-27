@@ -1,6 +1,9 @@
 
 # WOX WIKI REPO
 
+[![Documentation Status](https://readthedocs.org/projects/woxwiki/badge/?version=latest)](https://woxwiki.readthedocs.io/en/latest/?badge=latest)
+
+
 This is the doc repo for [jjw24/wox](https://github.com/jjw24/Wox), an awesome fork for original [Wox](https://github.com/Wox-launcher/Wox).
 
 ## Website
