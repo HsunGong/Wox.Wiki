@@ -29,7 +29,7 @@ Let's analyse.
 
 ### Detail Usage of some plugins
 
-Jump to [Built-In Plugins](plugins/system.md) to see introduction.
+Jump to [Built-In Plugins](../plugins/system.md) to see introduction.
 
 ## Themes
 
@@ -38,7 +38,7 @@ Jump to [Usage with themes](themes.md) to see more.
 
 ## Settings
 
-There are **6** parts of settings: General, Plugin, Theme, Hotkey, HTTP Proxy, About(Update). We will talk about all *except plugin*, because this can be found in [Built-In Plugins](plugins/system.md).
+There are **6** parts of settings: General, Plugin, Theme, Hotkey, HTTP Proxy, About(Update). We will talk about all *except plugin*, because this can be found in [Built-In Plugins](../plugins/system.md).
 
 > The ways to call out `Wox Settings` are:
   (1) Query by `settings` and find `Wox` one.
@@ -51,4 +51,4 @@ Jump to [Settings]
 There are 2 parts, one is to explore more interesting plugins and themes, the other is to develop your own plugins.
 
 - Jump to [Usage with themes](themes.md) to find more about themes.
-- Jump to [Usage with Plugins](plugins/main.md) to find more about themes.
+- Jump to [Usage with Plugins](../plugins/main.md) to find more about themes.

@@ -7,10 +7,14 @@ site_favicon: 'imgs/app.jpg'
 theme: material
 
 markdown_extensions:
-  - pymdownx.arithmatex
+  - footnotes
+  - pymdownx.mark
+  - pymdownx.details
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
@@ -37,11 +41,11 @@ nav:
   - Themes: basic/themes.md
   - Settings: basic/settings.md
 
-- Plugins:
-  - Built-In plugins: basic/plugins.md
-  - Install a plugin: plugins/install.md
-  - Explore a plugin: plugins/explore.md
-  - Develop a plugin: plugins/develop.md
+# - Plugins:
+#   - Built-In plugins: basic/plugins.md
+#   - Install a plugin: plugins/install.md
+#   - Explore a plugin: plugins/explore.md
+#   - Develop a plugin: plugins/develop.md
 
 - Develop:
   - Develop a theme: basic/themes.md
@@ -51,3 +55,4 @@ nav:
 - Reference:
   - Repo in Github: refer/source.md
   - mkdocs: refer/mkdocs.md
+  - Python markdown: refer/pymdown.md
