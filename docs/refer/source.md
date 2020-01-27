@@ -5,7 +5,7 @@ This is the doc repo for [jjw24/wox](https://github.com/jjw24/Wox), an awesome f
 
 ## Website
 
-<!-- mkdocs gh-deploy --remote-branch github -->
+<!-- mkdocs gh-deploy --remote-branch master -->
 Github Page:
 
 <!-- git push -->
