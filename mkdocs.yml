@@ -52,9 +52,8 @@ markdown_extensions:
   - pymdownx.tilde
 
 plugins:
-    - search:
-        lang: ['en', 'zh']
-
+    - localsearch
+    
 repo_url: 'https://github.com/HsunGong/Wox.Wiki'
 extra:
 # manifest: 'manifest.webmanifest'
