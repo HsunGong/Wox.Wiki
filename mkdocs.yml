@@ -35,22 +35,22 @@ nav:
 - Home: index.md
 
 - Basic Usage:
-  - Install Wox: basic/install.md
-  - Getting started: basic/usage.md
-  - Built-In Plugins: basic/plugins.md
-  - Themes: basic/themes.md
-  - Settings: basic/settings.md
+  - Install Wox: install.md
+  - Getting started: usage.md
+  - Built-In Plugins: plugins.md
+  - Themes: themes.md
+  - Settings: settings.md
 
 # - Plugins:
-#   - Built-In plugins: basic/plugins.md
+#   - Built-In plugins: plugins.md
 #   - Install a plugin: plugins/install.md
 #   - Explore a plugin: plugins/explore.md
 #   - Develop a plugin: plugins/develop.md
 
 - Develop:
-  - Develop a theme: basic/themes.md
+  - Develop a theme: themes.md
   - Develop a plugin: plugins/develop.md
-  - Develop Wox: basic/develop.md
+  - Develop Wox: develop.md
 
 - Reference:
   - Repo in Github: refer/source.md
