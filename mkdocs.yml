@@ -41,8 +41,7 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.emoji
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -54,8 +53,7 @@ markdown_extensions:
 
 plugins:
     - search:
-        separator: '[\s\-\.]+'
-        lang: ['en']
+        lang: ['en', 'zh']
 
 repo_url: 'https://github.com/HsunGong/Wox.Wiki'
 extra:
