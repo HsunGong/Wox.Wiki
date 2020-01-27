@@ -1,6 +1,6 @@
-site_name: Wox Wiki
-docs_dir: 'docs'
-copyright: 'Copyright &copy; 2019 - Now; Xun Gong'
+site_name: 'Wox Wiki: Documentation for Wox Launcher'
+docs_dir: docs
+copyright: Copyright &copy; 2019 - Now Xun Gong
 
 nav:
 - Home: index.md
@@ -30,7 +30,7 @@ nav:
 
 theme: 
   name: material
-  favicon: 'imgs/app.jpg'
+  favicon: imgs/app.jpg
 
 markdown_extensions:
   - footnotes
@@ -53,10 +53,11 @@ markdown_extensions:
 
 plugins:
     - localsearch
-    
-repo_url: 'https://github.com/HsunGong/Wox.Wiki'
+# Lang: jp support zh-CN?
+
+repo_url: https://github.com/HsunGong/Wox.Wiki
 extra:
 # manifest: 'manifest.webmanifest'
   social:
-    - type: 'github'
-      link: 'https://github.com/HsunGong'
+    - type: github
+      link: https://github.com/HsunGong
