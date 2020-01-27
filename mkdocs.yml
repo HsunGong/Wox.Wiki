@@ -1,7 +1,34 @@
 site_name: Wox Wiki
+docs_dir: 'docs'
+markdown_extensions: []
+repo_url: 'https://github.com/HsunGong/Wox.Wiki'
+site_favicon: 'imgs/app.jpg'
+
+theme: material
+
+markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+    - search:
+        separator: '[\s\-\.]+'
+        lang: ['en']
 
 nav:
-- Home: readme.md
+- Home: index.md
 
 - Basic Usage:
   - Install Wox: basic/install.md
@@ -24,5 +51,3 @@ nav:
 - Reference:
   - Repo in Github: refer/source.md
   - mkdocs: refer/mkdocs.md
-
-theme: readthedocs

@@ -1,11 +1,11 @@
-## Wox Documentation
+# Wox Documentation
 
 **This doc** contains all parts of Wox, including basic usage, settings and how to make a Wox plugin/theme.
 
 
-### Quick Tutorial
+## Quick Tutorial
 
-> Jump to [Catalogue](#catalogue) to ignore unnecessary information. For **beginners**, read **Basic Usage** part carefully.
+!!! note Jump to [Catalogue](#catalogue) to ignore unnecessary information. For **beginners**, read **Basic Usage** part carefully.
 
 
 ### Main Projects
@@ -14,10 +14,10 @@
     - It is open sourced at: https://github.com/jjw24/Wox, any pull requests and issues are appreciate.
 
 - **Wox.Wiki** (this doc)
-  - It is open sourced at: https://github.com/HsunGong/Wox.Wiki.
+  - It is open sourced at: https://github.com/HsunGong/Wox.Wiki
   - If you want to help improve this doc or translate it to your native language, push requests or open issues.
 
-##### Old projects
+### Old projects
 
 <place-holder>
 
@@ -36,9 +36,9 @@ You can use to search local programs, files. It can also search web content by u
 BUG: <place-holder>
 
 
-### <a id="history">History</a>
+### History
 
-#### Background
+### Background
 
 Before written Wox, I always wanted to write a launcher. I like to using hotkeys instead of keyboards, especially after using Vim. 
 `Win + R` inside Windows cannot search programs, not good for me. I also used `Launchy`, but it seems stopped maintanence for a long time. 
@@ -95,8 +95,7 @@ Modifications:
 
 If the doc is not written by the maintainer [Xun Gong](#xungong), the author will be pointed out.
 
-- <a id="xungong">Xun Gong</a>: 
-  - As the `maintainer`. 
-  - Visit my [Github Page](https://github.com/hsungong), or [Email to me](mailto:gongxuncd@gmail.com).
+- <a id="xungong">Xun Gong</a>: As the `maintainer` 
+    - Visit my [Github Page](https://github.com/hsungong), or [Email to me](mailto:gongxuncd@gmail.com).
 
-- <a id="baoqian">Bao Qian</a>: [Github](https://github.com/bao-qian), and [Email](mailto:qianlf2008@163.com)
+- <a id="baoqian">Bao Qian</a>: The creator. [Github](https://github.com/bao-qian), and [Email](mailto:qianlf2008@163.com)
