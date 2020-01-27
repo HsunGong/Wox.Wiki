@@ -1,7 +1,32 @@
 site_name: Wox Wiki
 docs_dir: 'docs'
-markdown_extensions: []
-repo_url: 'https://github.com/HsunGong/Wox.Wiki'
+copyright: 'Copyright &copy; 2019 - Now; Xun Gong'
+
+nav:
+- Home: index.md
+
+- Basic Usage:
+  - Install Wox: install.md
+  - Getting started: usage.md
+  - Built-In Plugins: plugins.md
+  - Themes: themes.md
+  - Settings: settings.md
+
+# - Plugins:
+#   - Built-In plugins: plugins.md
+#   - Install a plugin: plugins/install.md
+#   - Explore a plugin: plugins/explore.md
+#   - Develop a plugin: plugins/develop.md
+
+- Develop:
+  - Develop a theme: themes.md
+  - Develop a plugin: plugins/develop.md
+  - Develop Wox: develop.md
+
+- Reference:
+  - Repo in Github: refer/source.md
+  - mkdocs: refer/mkdocs.md
+  - Python markdown: refer/pymdown.md
 
 theme: 
   name: material
@@ -32,28 +57,9 @@ plugins:
         separator: '[\s\-\.]+'
         lang: ['en']
 
-nav:
-- Home: index.md
-
-- Basic Usage:
-  - Install Wox: install.md
-  - Getting started: usage.md
-  - Built-In Plugins: plugins.md
-  - Themes: themes.md
-  - Settings: settings.md
-
-# - Plugins:
-#   - Built-In plugins: plugins.md
-#   - Install a plugin: plugins/install.md
-#   - Explore a plugin: plugins/explore.md
-#   - Develop a plugin: plugins/develop.md
-
-- Develop:
-  - Develop a theme: themes.md
-  - Develop a plugin: plugins/develop.md
-  - Develop Wox: develop.md
-
-- Reference:
-  - Repo in Github: refer/source.md
-  - mkdocs: refer/mkdocs.md
-  - Python markdown: refer/pymdown.md
+repo_url: 'https://github.com/HsunGong/Wox.Wiki'
+extra:
+# manifest: 'manifest.webmanifest'
+  social:
+    - type: 'github'
+      link: 'https://github.com/HsunGong'
