@@ -1,15 +1,28 @@
 site_name: Wox Wiki
 
 nav:
-- Home: main.md
+- Home: readme.md
 
-- Tutorial:
+- Basic Usage:
   - Install Wox: basic/install.md
-  - Basic Usage: basic/usage.md
-  - Up to date: basic/update.md
-  - Develop: basic/develop.md
+  - Getting started: basic/usage.md
+  - Built-In Plugins: basic/plugins.md
+  - Themes: basic/themes.md
+  - Settings: basic/settings.md
+
+- Plugins:
+  - Built-In plugins: basic/plugins.md
+  - Install a plugin: plugins/install.md
+  - Explore a plugin: plugins/explore.md
+  - Develop a plugin: plugins/develop.md
+
+- Develop:
+  - Develop a theme: basic/themes.md
+  - Develop a plugin: plugins/develop.md
+  - Develop Wox: basic/develop.md
 
 - Reference:
+  - Repo in Github: refer/source.md
   - mkdocs: refer/mkdocs.md
-  
+
 theme: readthedocs

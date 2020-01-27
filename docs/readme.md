@@ -65,7 +65,8 @@ Thank [Bao Qian](#baoqian) for his generous work. You can find more in [History 
 ## <a id="catalogue">Catalogue</a>
 
 - [Install Wox](basic/install.md)
-- [**Basic Usage**](basic/usage.md): contains all basic usage of `Wox`, **this is what you should read as a beginner**.
+- [**Gettings Started**](basic/usage.md): contains all basic usage of `Wox`, **this is what you should read as a beginner**.
+  - [Start](basic/usage.md): a start guide
   - [Built-In Plugins Usage](basic/plugins.md): contains all built-in plugins usage and settings.
   - [Theme Usage](basic/themes.md): contains all theme-related usage and settings.
   - [Settings](basic/settings.md): contains all settings except `plugins` and `theme` of the main page.
