@@ -66,7 +66,7 @@ plugins:
     - localsearch
 # Lang: jp support zh-CN?
 
-repo_url: git@github.com:HsunGong/Wox.Wiki.git
+repo_url: https://github.com/HsunGong/Wox.Wiki.git
 remote_name: master # mkdocs gh-deploy
 
 extra:
