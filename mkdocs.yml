@@ -67,7 +67,8 @@ plugins:
 # Lang: jp support zh-CN?
 
 repo_url: https://github.com/HsunGong/Wox.Wiki.git
-remote_name: master # mkdocs gh-deploy
+remote_branch: master # mkdocs gh-deploy
+# remote_name: master
 
 extra:
 # manifest: 'manifest.webmanifest'
