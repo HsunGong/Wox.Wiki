@@ -1,32 +1,35 @@
 site_name: 'Wox Wiki: Documentation for Wox Launcher'
+site_author: 'Xun Gong'
 docs_dir: docs
 copyright: Copyright &copy; 2019 - Now Xun Gong
 
-nav:
-- Home: index.md
 
-- Basic Usage:
-  - Install Wox: install.md
-  - Getting started: usage.md
-  - Built-In Plugins: plugins.md
-  - Themes: themes.md
-  - Settings: settings.md
+# index_page: README.md
+nav: 
 
-# - Plugins:
-#   - Built-In plugins: plugins.md
-#   - Install a plugin: plugins/install.md
-#   - Explore a plugin: plugins/explore.md
-#   - Develop a plugin: plugins/develop.md
+- Home: home.md
 
-- Develop:
-  - Develop a theme: themes.md
-  - Develop a plugin: plugins/develop.md
-  - Develop Wox: develop.md
+- Install Wox: install.md
+- Getting started: start.md
+- Built-In Plugins: plugins.md
+- Themes: themes.md
+- Settings: settings.md
+
+- Plugins: 
+  - Built-In: plugins.md
+  - Poplular: plugins/popular.md
+  - Develop: plugins/develop.md
+
+- Develop: develop.md
 
 - Reference:
-  - Repo in Github: refer/source.md
-  - mkdocs: refer/mkdocs.md
-  - Python markdown: refer/pymdown.md
+  - Related Source Code of Wox: README.md
+  - Mkdocs: refer/mkdocs.md
+  - Python Markdown Extensions: refer/pymdown.md
+
+- Changelog: changelog.md
+
+- License: license.md
 
 theme: 
   name: material
@@ -34,6 +37,10 @@ theme:
 
 markdown_extensions:
   - footnotes
+  - toc:
+      permalink: true
+      separator: "_"
+  - admonition
   - pymdownx.mark
   - pymdownx.details
   - pymdownx.betterem:
@@ -43,19 +50,25 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.emoji
   - pymdownx.inlinehilite
-  - pymdownx.magiclink
+  - pymdownx.magiclink:
+      repo_url_shortener: true
+      repo_url_shorthand: true
+      social_url_shorthand: true
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.keys
 
 plugins:
     - localsearch
 # Lang: jp support zh-CN?
 
 repo_url: https://github.com/HsunGong/Wox.Wiki
+remote_name: master # mkdocs gh-deploy
+
 extra:
 # manifest: 'manifest.webmanifest'
   social:
