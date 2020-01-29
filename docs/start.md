@@ -58,7 +58,9 @@ There are **6** parts of settings: General, Plugin, Theme, Hotkey, HTTP Proxy, A
 Jump to [Settings]
 
 ## Update
-
+TODO:
+C:\Users\xun\AppData\Local\Wox\Wox\app-1.2.0\Themes\ThemeBuilder\ThemeConvertor.py
+C:\Users\xun\AppData\Local\Wox\Wox\app-1.2.0\Themes\ThemeBuilder\Template.xaml
 ### Plugin Update
 
 ### Wox Update

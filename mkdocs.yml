@@ -23,7 +23,7 @@ nav:
 - Develop: develop.md
 
 - Reference:
-  - Related Source Code of Wox: README.md
+  - README: README.md
   - Mkdocs: refer/mkdocs.md
   - Python Markdown Extensions: refer/pymdown.md
 

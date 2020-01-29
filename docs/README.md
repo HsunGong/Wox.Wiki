@@ -40,3 +40,7 @@ Readthedocs: https://woxwiki.readthedocs.io/en/latest/
 - Old Wox repo: https://github.com/Wox-launcher/Wox
 - Old Wox Wiki: http://doc.wox.one/en/ and https://github.com/Wox-launcher/Wox/wiki
 - Old Wox website: http://www.wox.one/ and http://doc.wox.one/en/ and https://github.com/Wox-launcher/Website
+
+### License
+
+MIT License
